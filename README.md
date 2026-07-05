@@ -52,9 +52,9 @@ vercel --prod
 ```
 
 ## 👨‍💻 Built By
-Designed and developed by **[YOUR NAME]**
-- 📧 Email: your@email.com
-- 💼 WhatsApp: +91 XXXXXXXXXX
+Designed and developed by Durbadal Rajak
+- 📧 Email: iu699307@gmail.com
+- 💼 WhatsApp: +91 7679103182
 
 ---
 > This is a portfolio demo project showcasing AI-assisted web development.
